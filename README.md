@@ -9,7 +9,7 @@ Volleyball Line Detection application using image processing techniques for dete
 
 # Sample Image:
 
-![Sample_Image](Volleyball-Line-Detection\Sample_Input.jpg)
+![Sample_Image](images\Sample_Input.jpg)
 
 # Intructions
 
