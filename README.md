@@ -4,7 +4,7 @@ Volleyball Line Detection application using image processing techniques for dete
 | Name | Student Number |
 |-----------|-----------|
 | Noel McCarthy | C22533826 |
-|  |  |
+| Karl Negrillo | C22386123 |
 |  |  |
 
 # Sample Image:
